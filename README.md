@@ -1,6 +1,6 @@
 
 <p align="center">
-  <i>"Stay based and redpilled"
+  <i>"Stay based and redpilled"</i>
 </p>
 
 ___
