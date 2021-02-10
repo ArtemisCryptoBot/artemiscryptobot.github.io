@@ -1,4 +1,14 @@
-# artemiscryptobot.github.io
-A sleepless cryptocurrency TA/FA aggregator
 
-💬 [t.me/artemis_crypto_bot](t.me/artemis_crypto_bot)
+<p align="center">
+  <i>"Stay based and redpilled"
+</p>
+
+___
+
+
+<p align="center">
+  :point_right: <a href="t.me/artemis_crypto_bo"> Talk to me on Telegram </a> 
+  <br><br>
+</p>
+
+
