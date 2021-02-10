@@ -7,7 +7,7 @@ ___
 
 
 <p align="center">
-  <a href="t.me/artemis_crypto_bot"> Talk to me on Telegram </a> 
+  <a href="http://t.me/artemis_crypto_bot"> Talk to me on Telegram </a> 
 </p>
 
 
