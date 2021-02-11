@@ -14,49 +14,55 @@ ___
 
 ## List of supported free endpoints
 
-### /altrank [coin]
+### `/altrank [token]`
+
+<details><summary>example</summary>
+Example details
+</details>
 
 Shows AltRank™ score for a token
 
-### /charts [pair]
+### `/charts [pair]`
 
 Show monthly charts for a pair on Binance
 
-### /depth [pair]
+### `/depth [pair]`
 
 Show the bid/ask depth for a token pair
 
-### /fgi
+### `/fgi`
 
 Show Fear and Greed Index (FGI) for Bitcoin
 
-### /gscore
+### `/gscore [token]`
 
 Show Galaxy™ score for a token
 
 
-### /help
+### `/help [command]`
 
 Display helpful information
 
-### /p
+### `/p [token]`
 
 Show the price action for a token
 
-### /signals
+### `/signals [pair]`
 
 Show BUY/SELL signals from TradingView for crypto pairs
 
-### /trending
+### `/trending`
 
 Get the 7 trending coins on Coingecko
 
-### /tweets
+### `/tweets #[hashtag]`
 
 Show 10 trending tweets for a "#" or "$" tag
 
 ____
-*We are working on some special properitary features that will be available to premium subscribers - stay tuned!*
+<center>Dieser Text wird zentriert.
+<p><i>We are working on some special proprietary features that will be available to premium subscribers - stay tuned!</i></p></center>
+
 
 
 
