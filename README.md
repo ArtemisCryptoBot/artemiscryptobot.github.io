@@ -60,8 +60,7 @@ Get the 7 trending coins on Coingecko
 Show 10 trending tweets for a "#" or "$" tag
 
 ____
-<center>Dieser Text wird zentriert.
-<p><i>We are working on some special proprietary features that will be available to premium subscribers - stay tuned!</i></p></center>
+<center><p><i>We are working on some special proprietary features that will be available to premium subscribers - stay tuned!</i></p></center>
 
 
 
