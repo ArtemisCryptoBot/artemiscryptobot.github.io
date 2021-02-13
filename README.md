@@ -12,19 +12,19 @@ In the abundance of data amidst the unprecedented hype in the cryptocurrency spa
 
 ## How to use?
 
-It is essentially a Telegram chatbot so you first need to create a [Telegram](https://telegram.org/) account. Then either click here or manually search for `artemis_crypto_bot` on Telegram to start. To send a command you have to add a `/` prefix followed by the command name and any arguments (if needed), e.g. `/p bitcoin` to query the current price of bitcoin or `/trending` for a list of currently trending coins on Coingecko. For a list of available commands, see below.
+It is essentially a Telegram chatbot so you first need to create a [Telegram](https://telegram.org/) account. Then either [click here](https://t.me/artemis_crypto_bot) or manually search for `artemis_crypto_bot` on Telegram to start. To send a command you have to type the `/` prefix followed by the command name and any arguments (if needed), e.g. `/p bitcoin` to query the current price of bitcoin or `/trending` for a list of currently trending coins on [Coingecko](https://www.coingecko.com/). For a list of available commands, see below.
 
 ## Resources
 
-Currently our hosting resources are limited and request limits may apply. We have plans to scale up according to the growth of our community.
+Our hosting resources are currently limited and request limits may apply. Bot responses may be occasionally slowed down depending on the traffic but we have plans to scale up the necessary resources according to the growth of our community.
 
 ## Pricing
 
-As of now, all endpoints are free to use as they comply with the terms of service (ToS) of the third-party APIs that are invoked. However, we are working on some proprietary features based on free market data that may come under a premium plan soon.
+As of now, all endpoints are free to use as they comply with the terms-of-service of the third-party APIs that are invoked under the hood. However, we are working on some proprietary features based on freely accesible blockchain data that may come under a premium plan soon.
 
 ## Why Telegram?
 
-Primarily because Telegram is the dominant means of communication in the crypto space. **Period**.
+Because Telegram is the dominant means of communication in the crypto space. **Period**.
 
 It also offers an awesome API to build custom applications on and serves as a personalized Instant Messenger (IM) so that users may receive customized notifications.
 
@@ -32,52 +32,46 @@ It also offers an awesome API to build custom applications on and serves as a pe
 
 ### `/altrank [token]`
 
-<details><summary>example</summary>
-Example details
-</details>
-
-Shows AltRank™ score for a token
+Shows AltRank™ score by LunarCRUSH for a token.
 
 ### `/charts [pair]`
 
-Show monthly charts for a pair on Binance
+Show monthly charts for a pair on Binance.
 
 ### `/depth [pair]`
 
-Show the bid/ask depth for a token pair
+Show the bid/ask depth for a token pair on Binance.
 
 ### `/fgi`
 
-Show Fear and Greed Index (FGI) for Bitcoin
+Show Fear and Greed Index (FGI) for Bitcoin.
 
 ### `/gscore [token]`
 
-Show Galaxy™ score for a token
+Show Galaxy™ score by LunarCRUSH for a token.
 
 
 ### `/help [command]`
 
-Display helpful information
+Display helpful information.
 
 ### `/p [token]`
 
-Show the price action for a token
+Show the price action for a token on Coingecko.
 
 ### `/signals [pair]`
 
-Show BUY/SELL signals from TradingView for crypto pairs
+Show BUY/SELL signals from TradingView for a token pair.
 
 ### `/trending`
 
-Get the 7 trending coins on Coingecko
+Show the 7 most trending coins on Coingecko.
 
 ### `/tweets #[hashtag]`
 
-Show 10 trending tweets for a "#" or "$" tag
+Show 10 most trending tweets for a "#" or "$" tag.
 
 ____
-<p align="center">
-  <i>We are working on some special proprietary features that will be available to premium subscribers - stay tuned!</i>
-</p>
+
 
 
