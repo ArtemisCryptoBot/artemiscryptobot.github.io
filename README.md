@@ -12,7 +12,7 @@ In the abundance of data amidst the unprecedented hype in the cryptocurrency spa
 
 ## How to use?
 
-It is essentially a Telegram chatbot so you first need to create a [Telegram](https://telegram.org/) account. Then either [click here](https://t.me/artemis_crypto_bot) or manually search for `artemis_crypto_bot` on Telegram to start. To send a command you have to type the `/` prefix followed by the command name and any arguments (if needed), e.g. `/p bitcoin` to query the current price of bitcoin or `/trending` for a list of currently trending coins on [Coingecko](https://www.coingecko.com/). For a list of available commands, see below.
+It is essentially a Telegram chatbot so you first need to create a [Telegram](https://telegram.org/) account. Then either [click here](https://t.me/artemis_crypto_bot) or manually search for `artemis_crypto_bot` on Telegram to start. To send a command you have to type the `/` prefix followed by the command name and any arguments (if needed), e.g. `/p bitcoin` to query the current price of bitcoin or `/trending` for a list of currently trending coins on [Coingecko](https://www.coingecko.com/). For a list of available commands, [see below](#list-of-supported-free-endpoints).
 
 ## Resources
 
@@ -30,44 +30,44 @@ It also offers an awesome API to build custom applications on and serves as a pe
 
 ## List of supported free endpoints
 
-### `/altrank [token]`
+#### `/altrank [token]`
 
 Shows AltRank™ score by LunarCRUSH for a token.
 
-### `/charts [pair]`
+#### `/charts [pair]`
 
 Show monthly charts for a pair on Binance.
 
-### `/depth [pair]`
+#### `/depth [pair]`
 
 Show the bid/ask depth for a token pair on Binance.
 
-### `/fgi`
+#### `/fgi`
 
 Show Fear and Greed Index (FGI) for Bitcoin.
 
-### `/gscore [token]`
+#### `/gscore [token]`
 
 Show Galaxy™ score by LunarCRUSH for a token.
 
 
-### `/help [command]`
+#### `/help [command]`
 
 Display helpful information.
 
-### `/p [token]`
+#### `/p [token]`
 
 Show the price action for a token on Coingecko.
 
-### `/signals [pair]`
+#### `/signals [pair]`
 
 Show BUY/SELL signals from TradingView for a token pair.
 
-### `/trending`
+#### `/trending`
 
 Show the 7 most trending coins on Coingecko.
 
-### `/tweets #[hashtag]`
+#### `/tweets #[hashtag]`
 
 Show 10 most trending tweets for a "#" or "$" tag.
 
