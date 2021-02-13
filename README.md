@@ -10,7 +10,7 @@
 
 In the abundance of data amidst the unprecedented hype in the cryptocurrency space, this is an attempt to aggregate publicly available information into a single user endpoint. We will be continuously integrating new features or third-party APIs that we discover along the way in order to stay up-to-date.
 
-## How to use?
+## How to use it?
 
 It is essentially a Telegram chatbot so you first need to create a [Telegram](https://telegram.org/) account. Then either [click here](https://t.me/artemis_crypto_bot) or manually search for `artemis_crypto_bot` on Telegram to start. To send a command you have to type the `/` prefix followed by the command name and any arguments (if needed), e.g. `/p bitcoin` to query the current price of bitcoin or `/trending` for a list of currently trending coins on [Coingecko](https://www.coingecko.com/). For a list of available commands, [see below](#list-of-supported-free-endpoints).
 
