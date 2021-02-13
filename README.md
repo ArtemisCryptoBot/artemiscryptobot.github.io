@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/ArtemisCryptoBot/artemiscryptobot.github.io/blob/main/artemis-demo.gif" width="300" height="600" />
+</p>
+ 
+<p align="center">
   <a href="http://t.me/artemis_crypto_bot"> 👉 Talk to me on Telegram 💬</a> 
 </p>
 
