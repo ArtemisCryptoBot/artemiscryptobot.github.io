@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArtemisCryptoBot/artemiscryptobot.github.io/blob/main/artemis-demo.gif" width="300" height="600" />
+  <img src="https://github.com/ArtemisCryptoBot/artemiscryptobot.github.io/blob/main/artemis-demo.gif" width="200" height="400" />
 </p>
  
 <p align="center">
