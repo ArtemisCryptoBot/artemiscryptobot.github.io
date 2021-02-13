@@ -8,7 +8,7 @@
 
 ## What is ArtemisCryptoBot🤖 ?
 
-In the abundance of data amidst the unprecedented hype in the cryptocurrency space, this is an attempt to aggregate publicly available information into a single Telegram endpoint. We will be continuously integrating new features or third-party APIs that we discover along the way in order to stay up-to-date.
+In the abundance of data amidst the unprecedented hype in the cryptocurrency space, this is an attempt to aggregate publicly available information into a single user endpoint. We will be continuously integrating new features or third-party APIs that we discover along the way in order to stay up-to-date.
 
 ## How to use?
 
