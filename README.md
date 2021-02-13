@@ -1,16 +1,28 @@
-
-<p align="center">
-  <i>"Stay based and redpilled"</i>
-</p>
-
-___
-
-
 <p align="center">
   <a href="http://t.me/artemis_crypto_bot"> 👉 Talk to me on Telegram 💬</a> 
 </p>
 
-## How to use
+## What is ArtemisCryptoBot🤖 ?
+
+In the abundance of data amidst the unprecedented hype in the cryptocurrency space, this is an attempt to aggregate publicly available information into a single Telegram endpoint. We continuously integrate new features or third-party APIs that we discover along the way in order to stay up-to-date.
+
+## How to use?
+
+It is essentially a Telegram chatbot that you can interact with. To send a command you have to add a "/" prefix, e.g. "/p bitcoin" to query the current price of bitcoin. For a list of available commands, see below.
+
+## Resources
+
+Currently our hosting resources are limited and request limits may apply. We have plans to scale up according to the growth of our community.
+
+## Pricing
+
+As of now, all endpoints are free to use as they comply with the terms of service (ToS) of the third-party APIs that are invoked. However, we are working on some proprietary features based on free market data that may come under a premium plan soon.
+
+## Why Telegram?
+
+Primarily because Telegram is the dominant means of communication in the crypto space. **Period**.
+
+It also offers an awesome API to build custom applications on and serves as a personalized Instant Messenger (IM) so that users may receive customized notifications.
 
 ## List of supported free endpoints
 
