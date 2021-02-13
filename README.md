@@ -8,7 +8,7 @@ In the abundance of data amidst the unprecedented hype in the cryptocurrency spa
 
 ## How to use?
 
-It is essentially a Telegram chatbot that you can interact with. To send a command you have to add a "/" prefix, e.g. "/p bitcoin" to query the current price of bitcoin. For a list of available commands, see below.
+It is essentially a Telegram chatbot that you can interact with. To send a command you have to add a `/` prefix followed by the command name and any arguments (if needed), e.g. `/p bitcoin` to query the current price of bitcoin or `/trending` for a list of currently trending coins on Coingecko. For a list of available commands, see below.
 
 ## Resources
 
